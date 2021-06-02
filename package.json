@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-keys-in",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "Return an array of an object's own and inherited enumerable property names.",
   "license": "Apache-2.0",
   "author": {
