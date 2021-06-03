@@ -73,5 +73,9 @@
     "inherited",
     "properties",
     "props"
-  ]
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
 }
