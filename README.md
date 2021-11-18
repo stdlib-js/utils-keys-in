@@ -20,7 +20,7 @@ limitations under the License.
 
 # Object Keys
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Return an array of an object's own and inherited enumerable property names.
 
@@ -112,9 +112,9 @@ console.log( keys );
 
 ## See Also
 
--   [`@stdlib/utils/entries-in`][@stdlib/utils/entries-in]: return an array of an object's own and inherited enumerable property key-value pairs.
--   [`@stdlib/utils/keys`][@stdlib/utils/keys]: return an array of an object's own enumerable property names.
--   [`@stdlib/utils/values-in`][@stdlib/utils/values-in]: return an array of an object's own and inherited enumerable property values.
+-   <span class="package-name">[`@stdlib/utils/entries-in`][@stdlib/utils/entries-in]</span><span class="delimiter">: </span><span class="description">return an array of an object's own and inherited enumerable property key-value pairs.</span>
+-   <span class="package-name">[`@stdlib/utils/keys`][@stdlib/utils/keys]</span><span class="delimiter">: </span><span class="description">return an array of an object's own enumerable property names.</span>
+-   <span class="package-name">[`@stdlib/utils/values-in`][@stdlib/utils/values-in]</span><span class="delimiter">: </span><span class="description">return an array of an object's own and inherited enumerable property values.</span>
 
 </section>
 
@@ -165,8 +165,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-keys-in/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-keys-in?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-keys-in.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-keys-in/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
