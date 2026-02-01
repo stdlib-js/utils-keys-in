@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-keys-in",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return an array of an object's own and inherited enumerable property names.",
   "license": "Apache-2.0",
   "author": {
@@ -39,7 +39,7 @@
   "dependencies": {},
   "devDependencies": {
     "@stdlib/assert-is-array": "^0.2.2",
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "@stdlib/utils-define-property": "^0.2.4",
     "@stdlib/utils-index-of": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
